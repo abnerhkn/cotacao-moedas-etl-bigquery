@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "local-cedar-463615-g2",
+  "private_key_id": "ae41a65d5d688be3c56cc6fccff7e76dcf10f734",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCRKGwKmLicjz92\nSdZoSnuHPmlEPXAC9+QZC1781hPBqQaPv4J4fxChRDQF5FTQCKC0sKw18WW/Oi7t\nnZQccyofy22RNd1gxfUlffu36Vor7jNYUAUIE+S41vJd2XapzRy/T2ISLpszDar7\n1ThHGRsUqfXPCkGzOyXPUjINU7s0TndzBqDw2dXLBVGZRxoRyK1ei+w/NXxvoAlT\ndpDFgYGrF4EFNamHLBetJVPd+f2YL8PN/sIpQNBKIkwkKEyVwcxbQsMa61Qe+U+E\nDQMiuC7KixoFM5BFcV2bB7r65TeJp1mAV27Fn4wV8LxyCxxMw9P79RtI3lcPy03l\nNSHcnU43AgMBAAECgf9wytCy9Qx+c25me+XP6PyxLhyd1jMzfbqFHdqxYTFbSiMx\nj54gyEyZ71GQ87QHLcDGCR/Hj6ST3z+riu3aj/EX10lzjEACywqejZUyZr5IAgqo\nlMBAcuYMHUiFy6/LpAwU6q3ncu0l0j32rHyYTExIhyrwBODhAdnB3LpC2+DqJVk7\nZcX6b7GCiB739ZJZ87U9b66PYb3c8VSD9M67IS2CldWsZJDNjlpk1o7MzXi1+8qZ\n+Y2qCr5yILYWbvESA107R+LBgH2KwlggIu5mDSpY1KMYJnBJKaQ1SCm4XpIOIzKQ\n9ZKTW9OPilP3FD+0U/c+yXSf0pmlb9xgODJq0HECgYEAwnTTl4uQNMBSyUQVwtz/\n4xk9PC1HbJFsEppt/LVc5d0ZwDHC43rQsKDOQ+kY/F1Up/bZu90gy6v0je0++TpY\nI9VQ6XPcnJfTrPat+riNwd0Ad8iINU5IltNvsHCCUdiX8zaRZiwuYP8T7Debc9rc\n5OwJyEkbtHqIBbBWfALP110CgYEAvxlah1P9oLcN4neKIu7pxycgXCCZId3qjuG/\nZtQ7sVqro5YsxhfhvD944bJiu/dAOpFbeGhdQ/DOaDU9iEPPqE6q6wdGulea/a05\nC3zl42gaGO3Ys7KS/glTdI+kDrkO+a0pDCr0HaF6W6eygDwZQGQV+twPqTTLV0vu\nWAN3BqMCgYEAkGjuUlcFCwfg8zMq7gHtzpuJzEzcBBajKdWh5NBTYyml3AOYdhNZ\nNDLXu7s6IQC2w94gqNF5b4gOH/CWmcPofQQICLdQmMJwIr03S0EPlW8oz8wOy3eN\nlOUExwVm4p11itt1c2lQMBx+kShiu9FHxoI8aY9RkeCFb6QbNhFohMkCgYAvaZbw\nZIJU0ZX8TjRTnnsaEjcRJHVZ1blQYeofFSEKS7iyCZxqOZqkHgtb0+pzQFELNu0+\n3oXlSWWsrSjrGgf3di0pytBdg0bNEaFJnF9dIIL5FGnji7a0mJPAI7NMg9WXVMMO\nZcnTYDD/dIfxEPgi5bIeX2LzVEnvCsPDynhJiQKBgG7RLgtUIxMbnzfABHC5EYqf\nwrO1segNfIwftr75bFUK1YMmHlLJT1ipk+UJBWMCzkN3ANYIpzujfCh7spiNgYtv\nMwlIupbYel42RF191h2F9btIgqU5c/YMotA8a4YADYXeVNFMP9b8MtnqI7vII32n\n2nBfSexwyZxmS1I7iNNS\n-----END PRIVATE KEY-----\n",
+  "client_email": "cotacao-bigquery@local-cedar-463615-g2.iam.gserviceaccount.com",
+  "client_id": "103631073761602172905",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cotacao-bigquery%40local-cedar-463615-g2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
