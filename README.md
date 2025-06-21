@@ -52,7 +52,7 @@ cotacao_moedas/
 
 | DAG Cron | BigQuery | Gráfico |
 |:--:|:--:|:--:|
-| ![](prints/cron_agendamento.png) | ![](prints/bigquery_tabela.png) | ![](prints/grafico.png) |
+| ![](prints/cron_agendamento.png) | ![](prints/bigquery_dataset.png) | ![](prints/grafico_cotacao.png) |
 
 
 ---
